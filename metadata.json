@@ -1,0 +1,6 @@
+{
+  "name": "Mapa de Assentos",
+  "description": "Interactive column-and-row seat map with raw Excel design cells, dynamic assignment toggles, and photo profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
